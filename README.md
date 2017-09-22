@@ -9,3 +9,7 @@ iffy
 fig
 
 savvy
+
+manada
+
+howe
