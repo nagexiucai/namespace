@@ -1,15 +1,49 @@
 # namespace
-good names and its usage.
+word good or odd and its usage.
 
 # list
-eff
+---
+## eff
 
-iffy
+- 弄糟
+- 滚开
+- 咒骂
 
-fig
+## iffy
 
-savvy
+- 未确定的（富于偶然性的）
+- 可疑的
 
-manada
+## fig
 
-howe
+- 无花果（树）
+- 少许（一些）
+- 无价值的东西
+- 服装
+- 打扮
+- 使马跑快
+
+## savvy
+
+- 悟性（理解能力）
+- 懂行（的人）
+- 理解（懂得、知道）
+
+## mana
+
+- 神力
+- 超自然力量
+- 威望
+
+## manada
+
+- 美国方言
+- 马群（尤指育种的母马群）
+- 牛群
+
+## howe
+
+- 洞
+- 洼地
+- 中空的
+- 深的
