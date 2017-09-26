@@ -66,3 +66,14 @@ word good or odd and its usage.
 ## curricula
 
 - 课程（curriculum的复数）
+
+## coin
+
+- 杜撰
+- 创造
+
+## quant
+
+- 船桨
+- 数量分析专家
+- 用篙撑（船）
