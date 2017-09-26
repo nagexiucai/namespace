@@ -47,3 +47,22 @@ word good or odd and its usage.
 - 洼地
 - 中空的
 - 深的
+
+## bio
+
+- 个人简历
+- 小传
+
+## vita
+
+- 生活
+- 生命
+- 个人简历
+
+## cur
+
+- 杂种（坏蛋）
+
+## curricula
+
+- 课程（curriculum的复数）
