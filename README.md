@@ -77,3 +77,10 @@ word good or odd and its usage.
 - 船桨
 - 数量分析专家
 - 用篙撑（船）
+
+## cage
+
+- （兽）笼
+- 牢房（监狱）
+- 关进笼子
+- 囚禁起来
